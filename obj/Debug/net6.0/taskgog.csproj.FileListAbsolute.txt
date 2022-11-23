@@ -1,0 +1,15 @@
+C:\GeekBrain\dog\taskgog\bin\Debug\net6.0\taskgog.exe
+C:\GeekBrain\dog\taskgog\bin\Debug\net6.0\taskgog.deps.json
+C:\GeekBrain\dog\taskgog\bin\Debug\net6.0\taskgog.runtimeconfig.json
+C:\GeekBrain\dog\taskgog\bin\Debug\net6.0\taskgog.dll
+C:\GeekBrain\dog\taskgog\bin\Debug\net6.0\taskgog.pdb
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.csproj.AssemblyReference.cache
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.AssemblyInfoInputs.cache
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.AssemblyInfo.cs
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.csproj.CoreCompileInputs.cache
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.dll
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\refint\taskgog.dll
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.pdb
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\taskgog.genruntimeconfig.cache
+C:\GeekBrain\dog\taskgog\obj\Debug\net6.0\ref\taskgog.dll
